@@ -1,0 +1,6 @@
+torchvision==0.7.0
+torch==1.6.0
+scipy==1.0.0
+timm==0.4.12
+numpy==1.20.3
+einops==0.4.1
