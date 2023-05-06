@@ -61,6 +61,13 @@ Download cave_1024_28 ([One Drive](https://bupteducn-my.sharepoint.com/:f:/g/per
 
 Following TSA-Net and DGSMP, we use the CAVE dataset (cave_1024_28) as the simulation training set. Both the CAVE (CAVE_512_28) and KAIST (KAIST_CVPR2021) datasets are used as the real training set. 
 
+
+##Prepare Pretrained ckpt:
+
+Download pretrained (Simulation and real ([Baidu Disk](https://pan.baidu.com/s/1T2Kz1rQ8Lo_SzpPajJB3qA?pwd=2ndf), code: `2ndf` | [One Drive](https://1drv.ms/f/s!AgPCk81UUoyYoBB8ebE22P65wrx3?e=FvWHnS)), and then put them into the corresponding folders of `pretrained/` and recollect them as the following form:
+
+
+
 ## Simulation Experiement:
 
 ### Training
