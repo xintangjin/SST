@@ -64,7 +64,7 @@ Following TSA-Net and DGSMP, we use the CAVE dataset (cave_1024_28) as the simul
 
 ##Prepare Pretrained ckpt:
 
-Download pretrained (Simulation and real ([Baidu Disk](https://pan.baidu.com/s/1T2Kz1rQ8Lo_SzpPajJB3qA?pwd=2ndf), code: `2ndf` | [One Drive](https://1drv.ms/f/s!AgPCk81UUoyYoBB8ebE22P65wrx3?e=FvWHnS)), and then put them into the corresponding folders of `pretrained/` and recollect them as the following form:
+Download pretrained (Simulation and real ([Baidu Disk](https://pan.baidu.com/s/1T2Kz1rQ8Lo_SzpPajJB3qA?pwd=2ndf), code: `2ndf` | [One Drive](https://1drv.ms/f/s!AgPCk81UUoyYoBB8ebE22P65wrx3?e=FvWHnS)), and then put them into the corresponding folders of `pretrained/` .
 
 
 
