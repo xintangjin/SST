@@ -131,7 +131,7 @@ python train.py  --outf ./exp/SST_S/ --method SST_S
 # SST_M
 python train.py --outf ./exp/SST_M/ --method SST_M  
 
-The training log, trained model, and reconstrcuted HSI will be available in `MST/real/train_code/exp/` . 
+The training log, trained model, and reconstrcuted HSI will be available in `SST/real/train_code/exp/` . 
 ```
 
 ### Testing	
@@ -147,3 +147,25 @@ python train.py --outf ./exp/SST_M/ --method SST_M   --pretrained_model_path ./S
 
 The reconstrcuted HSI will be output into `SST/real/test_code/exp/`  
 ```
+
+#Acknowledgement:
+
+Many thanks for the excellent work that has gone before and for their dedication. 
+The code structure and some results are borrowed from MST and DAUHST(https://github.com/caiyuanhao1998/MST). 
+please consider citing their works:
+
+## MST
+@inproceedings{mst,
+  title={Mask-guided Spectral-wise Transformer for Efficient Hyperspectral Image Reconstruction},
+  author={Yuanhao Cai and Jing Lin and Xiaowan Hu and Haoqian Wang and Xin Yuan and Yulun Zhang and Radu Timofte and Luc Van Gool},
+  booktitle={CVPR},
+  year={2022}
+}
+
+## DAUHST
+@inproceedings{dauhst,
+  title={Degradation-Aware Unfolding Half-Shuffle Transformer for Spectral Compressive Imaging},
+  author={Cai, Yuanhao and Lin, Jing and Wang, Haoqian and Yuan, Xin and Ding, Henghui and Zhang, Yulun and Timofte, Radu and Van Gool, Luc},
+  booktitle={NeurIPS}, 
+  year={2022}
+}
