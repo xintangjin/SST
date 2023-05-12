@@ -152,7 +152,7 @@ The reconstrcuted HSI will be output into `SST/real/test_code/exp/`
 # Acknowledgement:
 
 Many thanks for the excellent work that has gone before and for their dedication. 
-The code structure and some results are borrowed from MST and DAUHST(https://github.com/caiyuanhao1998/MST). 
+The code structure and datasets are borrowed from MST and DAUHST(https://github.com/caiyuanhao1998/MST). 
 
 
 please consider citing their works:
